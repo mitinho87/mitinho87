@@ -1,6 +1,6 @@
 # Hi, I'm Milton Ramos 👋
 
-**Senior Security Specialist · DevSecOps Leader · AI Security**
+**Senior Security Lead · AI Security**
 
 📍 Toronto, ON · 📧 milton.ramos@outlook.com · 🔗 [linkedin.com/in/milramos](https://linkedin.com/in/milramos)
 
@@ -86,7 +86,7 @@ Deployed Prisma Cloud CNAPP across AWS and Azure, implemented company-wide Netwo
 
 ---
 
-### 📡 Unitel S.A. — Angola
+### 📡 Unitel S.A.
 
 **Cybersecurity Analyst** *(Jul 2020 – Apr 2022)*  
 Senior escalation point for CheckPoint NGFW incidents. Administered CyberArk PAM and Darktrace NDR, conducted network forensics with tcpdump/Wireshark, and provided 24/7 incident response — resolving 90% of complex escalations through packet analysis.
@@ -96,7 +96,7 @@ Led end-to-end carrier-grade DDoS solution acquisition, achieved 99.99% uptime S
 
 ---
 
-### 🌍 Integrated Solutions Angola — Angola
+### 🌍 Integrated Solutions Angola
 
 **Technical Manager** *(Feb 2014 – Aug 2016)*  
 Built the Network Security department from scratch. Played a pivotal role in closing a **multi-million dollar CheckPoint NGFW deal**. Led CheckPoint NGFW implementation at Angola's National Cybersecurity Agency (ACIA) and deployed Imperva FAM at a major Oil & Gas company.
@@ -134,8 +134,8 @@ Performed full-scope penetration testing (recon, exploitation, post-exploitation
 
 ## 🌐 Languages
 
-🇨🇦 English (Fluent) · 🇧🇷 Portuguese (Native) · 🇪🇸 Spanish (Basic)
+🇨🇦 English (Fluent) · Portuguese (Native) · Spanish (Basic)
 
 ---
 
-*Senior AppSec leader open to high-impact security roles. Let's connect on [LinkedIn](https://linkedin.com/in/milramos).*
+*Senior Security Lead open to high-impact security roles. Let's connect on [LinkedIn](https://linkedin.com/in/milramos).*
