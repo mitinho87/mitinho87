@@ -6,7 +6,7 @@
 
 ---
 
-Senior Application Security leader with **12+ years** of progressive experience driving enterprise security transformation in Agile environments. I bridge the gap between security requirements and business velocity — embedding security as an enabler rather than a bottleneck in high-speed development pipelines.
+Senior Security leader with **12+ years** of progressive experience driving enterprise security transformation in Agile environments. I bridge the gap between security requirements and business velocity — embedding security as an enabler rather than a bottleneck in high-speed development pipelines.
 
 ---
 
