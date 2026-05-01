@@ -1,6 +1,6 @@
 # Hi, I'm Milton Ramos 👋
 
-**Senior Security Lead · AI Security**
+**Lead Security Engineer · Agentic AI Security**
 
 📍 Toronto, ON · 📧 milton.ramos@outlook.com · 🔗 [linkedin.com/in/milramos](https://linkedin.com/in/milramos)
 
